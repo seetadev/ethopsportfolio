@@ -1,4 +1,5 @@
-# Poly Promise: A decentralised E-commerce platform with NFT based warranty
+# Poly Promise 
+A decentralised B2C E-commerce platform with repair insurance served via NFTs and deployed at Polygon. 
 
 Demo Video, Screenshots and Pitch Deck: https://drive.google.com/drive/u/3/folders/1oyPSE9X4nCg_hwb78whSwmzQhxunYVUX
 
@@ -6,7 +7,7 @@ We are using MultiChain Feed Adapter for reading a feed and writing to MySQL pow
 
 Please find the link to MultiChain Feed Adapter for writing to MySQL at https://github.com/seetadev/ethopsportfolio/tree/main/multichain-feed-adapter
 
-Frontend: ReactJS, React Bootstrap
+Frontend: ReactJS, React Bootstrap, Xamarin and Appgyer (mobile app version)
 
 Backend: NodeJS, Mongo DB
 
