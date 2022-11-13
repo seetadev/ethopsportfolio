@@ -1,5 +1,6 @@
-MultiChain Feed Adapter
-=======================
+We are using MultiChain Feed Adapter for reading a feed and writing to MySQL powered Tableland blockchain database. We are developing audit notes platform for ecommerce system administrators using MYSQL powered database. Please find the app link at https://github.com/seetadev/ethopsportfolio/tree/main/E-Commerce-app
+
+Please find the link to MultiChain Feed Adapter for writing to MySQL at https://github.com/seetadev/ethopsportfolio/tree/main/multichain-feed-adapter
 
 [MultiChain Enterprise](https://www.multichain.com/enterprise/) feeds are real-time binary logs that make it easy to reflect the contents of a blockchain to any external database. A feed can contain information about the blocks in the chain, and the items in one or more streams (including unconfirmed transactions). Detailed documentation of the [feed file format](https://www.multichain.com/developers/feed-file-format/) is available.
 
